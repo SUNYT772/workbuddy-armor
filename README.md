@@ -7,7 +7,7 @@
 
 ## 交流群组
 
-Telegram: [t.me/77252](https://t.me/77252)
+Telegram:https://t.me/ty77252
 QQ：2856150283
 QQ群组：1106305314
 ## License
@@ -94,7 +94,7 @@ workbuddy-armor/
 
 ## 交流群组
 
-Telegram: [t.me/77252](https://t.me/77252)
+Telegram:https://t.me/ty77252
 QQ：2856150283
 QQ群组：1106305314
 ## License
